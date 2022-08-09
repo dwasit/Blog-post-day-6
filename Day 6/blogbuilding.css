@@ -1,0 +1,99 @@
+.title{
+    border: 5px solid green;
+    padding: 20px;
+    display: flex;
+}
+.read{
+    border: 2px solid black;
+    padding: 10px;
+    margin-right: 5px;
+    padding-top: 100px;
+}
+.boot{
+    border: 2px solid black;
+    padding: 10px;
+    flex: 1;
+    background-color: green;
+}
+.container{
+    color: green;
+    font-style: italic;
+}
+.burn{
+    color: white;
+    font-style: italic;
+}
+.book{
+    border: none;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+.table{
+    border: 9px;
+    background-color: white;
+    color: green;
+    cursor: pointer; 
+}
+
+.group{
+    display: flex;
+    border: 2px solid red;
+    margin-top: 30px;
+    padding: 20px;
+}
+.work{
+    border: 5px solid yellow;
+    padding: 10px;
+    
+}
+.tools{
+    border: 5px solid blue;
+    margin-left: 5px;
+    padding: 10px;
+    background-color: red;
+}
+.chair{
+    font-style: italic;
+}
+.shoe{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.box{
+    border: 5px solid red;
+    cursor: pointer;
+}
+.bowl{
+    border: 4px solid blue;
+    display: flex;
+    margin: 20px;
+}
+.spoon{
+    border: 2px solid red;
+    margin: 10px;
+    padding: 5px;
+    flex: 1;
+}
+.pot{
+    border: 2px solid green;
+    margin: 10px;
+    padding: 5px;
+    flex: 1;
+}
+.wood{
+    border: 2px solid yellow;
+    margin: 10px;
+    padding: 5px;
+    flex: 1;
+}
+.water{
+    border: none;
+    font-style: italic;
+    margin-left: 20px;
+    background-color: brown;
+    border-radius: 15px;
+    border-width: 10px;
+}
